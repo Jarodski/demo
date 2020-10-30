@@ -5,25 +5,25 @@
   "student":[
     {"given_name": "Jarod Augustus", "middle_name": "Cabeje", "last_name": "Austria", "membership_status": "Old", "email":"qjacaustria@tip.edu.ph",
     "institution":"Technological Institute of the Philippines", "membership_date": null, "membership_expiration": null, "icpep_id_number": null,
-    "photo" null, "payment_status": "Paid"},
+    "photo": null, "payment_status": "Paid"},
     {"given_name": "Yukino", "middle_name": "Saki", "last_name": "Yukinoshita", "membership_status": "Old", "email":"qysyukinoshita@tip.edu.ph",
     "institution":"Technological Institute of the Philippines", "membership_date": null, "membership_expiration": null, "icpep_id_number": null,
-    "photo" null, "payment_status": "Paid"},
+    "photo": null, "payment_status": "Paid"},
     {"given_name": "Hachiman", "middle_name": "Haki", "last_name": "Hikigaya", "membership_status": "Old", "email":"qhhhikigaya@tip.edu.ph",
     "institution":"Technological Institute of the Philippines", "membership_date": null, "membership_expiration": null, "icpep_id_number": null,
-    "photo" null, "payment_status": "Paid"},
+    "photo": null, "payment_status": "Paid"},
     {"given_name": "Yui", "middle_name": "Mama", "last_name": "Yuigahama", "membership_status": "Old", "email":"qymyuigahama@tip.edu.ph",
     "institution":"Technological Institute of the Philippines", "membership_data": null, "membership_expiration": null, "icpep_id_number": null,
-    "photo" null, "payment_status": "Paid"},
+    "photo": null, "payment_status": "Paid"},
     {"given_name": "Pepito", "middle_name": "Manaline", "last_name": "Manaloto", "membership_status": "Old", "email":"qpmmanaloto@tip.edu.ph",
     "institution":"Technological Institute of the Philippines", "membership_date": null, "membership_expiration": null, "icpep_id_number": null,
-    "photo" null, "payment_status": "Paid"},
+    "photo": null, "payment_status": "Paid"},
     {"given_name": "Denelle Jin", "middle_name": "Beneven", "last_name": "Mendoza", "membership_status": "Old", "email":"qdjbmendoza@tip.edu.ph",
     "institution":"Technological Institute of the Philippines", "membership_date": null, "membership_expiration": null, "icpep_id_number": null,
-    "photo" null, "payment_status": "Paid"},
+    "photo": null, "payment_status": "Paid"},
     {"given_name": "DJ Paulo", "middle_name": "Masbate", "last_name": "Legaspi", "membership_status": "Old", "email":"qysyukinoshita@tip.edu.ph",
     "institution":"Technological Institute of the Philippines", "membership_data": null, "membership_expiration": null, "icpep_id_number": null,
-    "photo" null, "payment_status": "Paid"}
+    "photo": null, "payment_status": "Paid"}
     
   ]
 }
