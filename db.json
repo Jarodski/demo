@@ -67,6 +67,19 @@
       "icpep_id_number": null,
       "photo": null,
       "payment_status": "Paid"
+    },
+    {
+      "given_name": "Klemen",
+      "middle_name": "Surandia",
+      "last_name": "Miguelino",
+      "membership_status": "Old",
+      "email": "qksmiguelino@tip.edu.ph",
+      "institution": "Technological Institute of the Philippines",
+      "membership_date": null,
+      "membership_expiration": null,
+      "icpep_id_number": null,
+      "photo": null,
+      "payment_status": "Paid"
     }
   ]
 }
