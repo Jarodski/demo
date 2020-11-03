@@ -97,6 +97,6 @@
   ],
   "institutions":[
     {"institution_name": "Technological Institute of the Philippines"},
-    ("institution_name": "Polytech University of the Philippines"}
+    {"institution_name": "Polytech University of the Philippines"}
   ]
 }
