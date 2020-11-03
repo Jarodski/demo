@@ -1,102 +1,106 @@
 {
-  "profile": {
-    "name": "typicode"
-  },
-  "student": [
-    {
-      "given_name": "Jarod Augustus",
-      "middle_name": "Cabeje",
-      "last_name": "Austria",
-      "membership_status": "Old",
-      "email": "qjacaustria@tip.edu.ph",
-      "institution": "Technological Institute of the Philippines",
-      "membership_date": null,
-      "membership_expiration": null,
-      "icpep_id_number": null,
-      "photo": null,
-      "payment_status": "Paid"
-    },
-    {
-      "given_name": "Desiderio",
-      "middle_name": "Eramus",
-      "last_name": "Mendel",
-      "membership_status": "Old",
-      "email": "qdemendel@tip.edu.ph",
-      "institution": "Technological Institute of the Philippines",
-      "membership_date": null,
-      "membership_expiration": null,
-      "icpep_id_number": null,
-      "photo": null,
-      "payment_status": "Paid"
-    },
-    {
-      "given_name": "Yukino",
-      "middle_name": "Snow",
-      "last_name": "Yukinoshita",
-      "membership_status": "Old",
-      "email": "qysyukinoshita@tip.edu.ph",
-      "institution": "Technological Institute of the Philippines",
-      "membership_date": null,
-      "membership_expiration": null,
-      "icpep_id_number": null,
-      "photo": null,
-      "payment_status": "Paid"
-    },
-    {
-      "given_name": "Hachiman",
-      "middle_name": "Komachi",
-      "last_name": "Hikigaya",
-      "membership_status": "Old",
-      "email": "qhkhikigaya@tip.edu.ph",
-      "institution": "Technological Institute of the Philippines",
-      "membership_date": null,
-      "membership_expiration": null,
-      "icpep_id_number": null,
-      "photo": null,
-      "payment_status": "Paid"
-    },
-    {
-      "given_name": "Yui",
-      "middle_name": "Sabel",
-      "last_name": "Yuigahama",
-      "membership_status": "Old",
-      "email": "qysyuiugahama@tip.edu.ph",
-      "institution": "Technological Institute of the Philippines",
-      "membership_date": null,
-      "membership_expiration": null,
-      "icpep_id_number": null,
-      "photo": null,
-      "payment_status": "Paid"
-    },
-    {
-      "given_name": "Klemen",
-      "middle_name": "Surandia",
-      "last_name": "Miguelino",
-      "membership_status": "Old",
-      "email": "qksmiguelino@tip.edu.ph",
-      "institution": "Technological Institute of the Philippines",
-      "membership_date": null,
-      "membership_expiration": null,
-      "icpep_id_number": null,
-      "photo": null,
-      "payment_status": "Paid"
-    },
-    {
-      "given_name": "Piolito",
-      "middle_name": "Armadego",
-      "last_name": "Hilahin",
-      "membership_status": "Old",
-      "email": "qpahilahin@tip.edu.ph",
-      "institution": "Technological Institute of the Philippines",
-      "membership_date": null,
-      "membership_expiration": null,
-      "icpep_id_number": null,
-      "photo": null,
-      "payment_status": "Paid"
-    }
-  ],
-  "institutions":[
-    {"institution_name": "Technological Institute of the Philippines"},
-    {"institution_name": "Polytech University of the Philippines"}
-  ]
+   "profile":{
+      "name":"typicode"
+   },
+   "student":[
+      {
+         "given_name":"Jarod Augustus",
+         "middle_name":"Cabeje",
+         "last_name":"Austria",
+         "membership_status":"Old",
+         "email":"qjacaustria@tip.edu.ph",
+         "institution":"Technological Institute of the Philippines",
+         "membership_date":null,
+         "membership_expiration":null,
+         "icpep_id_number":null,
+         "photo":null,
+         "payment_status":"Paid"
+      },
+      {
+         "given_name":"Desiderio",
+         "middle_name":"Eramus",
+         "last_name":"Mendel",
+         "membership_status":"Old",
+         "email":"qdemendel@tip.edu.ph",
+         "institution":"Technological Institute of the Philippines",
+         "membership_date":null,
+         "membership_expiration":null,
+         "icpep_id_number":null,
+         "photo":null,
+         "payment_status":"Paid"
+      },
+      {
+         "given_name":"Yukino",
+         "middle_name":"Snow",
+         "last_name":"Yukinoshita",
+         "membership_status":"Old",
+         "email":"qysyukinoshita@tip.edu.ph",
+         "institution":"Technological Institute of the Philippines",
+         "membership_date":null,
+         "membership_expiration":null,
+         "icpep_id_number":null,
+         "photo":null,
+         "payment_status":"Paid"
+      },
+      {
+         "given_name":"Hachiman",
+         "middle_name":"Komachi",
+         "last_name":"Hikigaya",
+         "membership_status":"Old",
+         "email":"qhkhikigaya@tip.edu.ph",
+         "institution":"Technological Institute of the Philippines",
+         "membership_date":null,
+         "membership_expiration":null,
+         "icpep_id_number":null,
+         "photo":null,
+         "payment_status":"Paid"
+      },
+      {
+         "given_name":"Yui",
+         "middle_name":"Sabel",
+         "last_name":"Yuigahama",
+         "membership_status":"Old",
+         "email":"qysyuiugahama@tip.edu.ph",
+         "institution":"Technological Institute of the Philippines",
+         "membership_date":null,
+         "membership_expiration":null,
+         "icpep_id_number":null,
+         "photo":null,
+         "payment_status":"Paid"
+      },
+      {
+         "given_name":"Klemen",
+         "middle_name":"Surandia",
+         "last_name":"Miguelino",
+         "membership_status":"Old",
+         "email":"qksmiguelino@tip.edu.ph",
+         "institution":"Technological Institute of the Philippines",
+         "membership_date":null,
+         "membership_expiration":null,
+         "icpep_id_number":null,
+         "photo":null,
+         "payment_status":"Paid"
+      },
+      {
+         "given_name":"Piolito",
+         "middle_name":"Armadego",
+         "last_name":"Hilahin",
+         "membership_status":"Old",
+         "email":"qpahilahin@tip.edu.ph",
+         "institution":"Technological Institute of the Philippines",
+         "membership_date":null,
+         "membership_expiration":null,
+         "icpep_id_number":null,
+         "photo":null,
+         "payment_status":"Paid"
+      }
+   ],
+   "institutions":[
+      {
+         "institution_name":"Technological Institute of the Philippines"
+      },
+      {
+         "institution_name":"Polytech University of the Philippines"
+      }
+   ]
 }
